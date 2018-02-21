@@ -1,1 +1,6 @@
 foo
+bar
+
+https://www.jetbrains.com/help/pycharm/manage-projects-hosted-on-github.html
+https://help.github.com/articles/creating-a-pull-request-from-a-fork/
+https://code.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267
