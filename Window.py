@@ -45,4 +45,4 @@ for i in range(0,25):
 window.mainloop()  # runs main loop of the tkinter object
 
 # Rhys was here :3
-#so was isaiahs
+#so was isaiah
